@@ -2,10 +2,9 @@
 /* NOtes */
 
 /**
+ * main - entry point
  *
- * main-entry point
- *
- * return:returns a 0 upon quest
+ * Return: returns a 0 upon quest
  */
 int main(void)
 {
